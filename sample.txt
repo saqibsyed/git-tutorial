@@ -1,3 +1,5 @@
 Hi This is a sample file, created while learning Git and GitHub.
 
 I have added this line after cloning from GitHub Repo of saqib.
+
+changes done from GitHub on 30062020 and there is 1 extraline in local git above this line.
