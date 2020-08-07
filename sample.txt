@@ -3,3 +3,5 @@ Hi This is a sample file, created while learning Git and GitHub.
 I have added this line after cloning from GitHub Repo of saqib.
 
 added this line from gitHub on 7Aug2020. (Action : pull to loacl)
+
+added this line from local on 7Aug2020. (Action : commit to local and push to github)
