@@ -7,3 +7,5 @@ added this line from gitHub on 7Aug2020. (Action : pull to loacl)
 added this line from local on 7Aug2020. (Action : commit to local and push to github)
 
 added this line from local on 7Aug2020 after moving to sub-branch1 (Action : commit to local and push to new branch at github to check if github created new local branch)
+
+added this line from local on 9Aug2020 to check git commands 
